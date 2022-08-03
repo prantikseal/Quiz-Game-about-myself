@@ -5,7 +5,7 @@ If you wanna know Prantik a little better you can play this game for sure.
 
 You can check the live project at: 
 
-%md <a href="[[https://google.com](https://fueler.io/prantikseal/quiz-game-about-myself)](https://fueler.io/prantikseal/quiz-game-about-myself)" target="_blank">Quiz CLI game about myself</a>
+<a href="[[[https://google.com](https://fueler.io/prantikseal/quiz-game-about-myself)](https://fueler.io/prantikseal/quiz-game-about-myself)](https://fueler.io/prantikseal/quiz-game-about-myself)" target="_blank">Quiz CLI game about myself</a>
 
 <h2>Upcoming features planned to be added</h2>
 
